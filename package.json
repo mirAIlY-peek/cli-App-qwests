@@ -1,0 +1,24 @@
+{
+  "name": "gameshowmens",
+  "version": "1.0.0",
+  "description": "game show millionaire",
+  "main": "extra.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Miras Kural nf",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "chalk-animation": "^2.0.2",
+    "experss": "^0.0.1-security",
+    "figlet": "^1.5.2",
+    "gradient": "^0.2.0",
+    "inquirer": "^8.2.4",
+    "nanospinner": "^1.1.0",
+    "rxjs": "^7.5.5"
+  },
+  "devDependencies": {}
+}
